@@ -12,5 +12,5 @@ Gem::Specification.new do |s|
   s.require_paths = [ "lib" ]
   s.homepage = "http://github.com/chourobin/ruby-enum"
   s.licenses = [ "MIT" ]
-  s.summary = "Enum-like behavior for Ruby."
+  s.summary = "A handy library for defining enums in Ruby"
 end
